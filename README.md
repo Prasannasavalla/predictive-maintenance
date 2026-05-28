@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/90814806-c333-4e5c-9628-5e5da76cd99f
+
 # Real-Time IoT Sensor Anomaly Detection Dashboard 🏭
 
 ### Project Description
